@@ -1,0 +1,2 @@
+# cka-exam
+CKA resources
