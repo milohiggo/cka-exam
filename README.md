@@ -64,6 +64,29 @@ https://github.com/reachcloudsme/k8s-certifications-resources/blob/main/CKA.md
 
 https://github.com/reachcloudsme/k8s-certifications-resources/blob/main/Prereqs.md
 
+### Commands
+
+["/bin/sh","-c","sleep 4800"]
+or see https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
+
+## Batch Group
+
+Jobs --> pods
+Cronjobs --> jobs --> pods
+
+### Cronjob
+
+https://crontab.guru/
+
+
+
+
+
+
+
+
+
+
 
 
 
