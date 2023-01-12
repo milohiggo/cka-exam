@@ -7,6 +7,8 @@
         #echo "ETCDCTL_API=3" >> $HOME/.profile
         export do='--dry-run=client -o yaml'  # note only used for create statement - otherwise use -o yaml
         #source $HOME/.bashrc
+        export kd="kubectl describe"
+        export kg="kubectl get"
 
 ### Backup & resort etcd
        Install etcdctl client:  sudo apt install etcd-client - [GITHUB Link](https://github.com/etcd-io/etcd/issues/14190)
